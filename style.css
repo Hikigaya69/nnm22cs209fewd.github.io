@@ -1,0 +1,24 @@
+.head{
+    font-size: 30px;
+
+ }
+ .para{
+     background-color: rgba(255, 3, 3, 0.4);
+     text-align: justify;
+     font-size: 27px;
+     border-style:dashed;
+ }
+ .para1{
+
+     background-color: rgb(201, 132, 132);
+     text-align: center;
+     border-style: groove;
+
+ }
+ .para3{
+
+background-color: rgb(241, 8, 8);
+text-align: center;
+border-style: groove;
+
+}
